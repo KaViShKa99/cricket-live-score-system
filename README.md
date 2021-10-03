@@ -1,1 +1,0 @@
-# cricket-live-score-system
