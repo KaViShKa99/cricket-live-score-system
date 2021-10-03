@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="cricket_live_score_submission"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="E:/JAPURA/Computer Science/programing/submission project/cricket_live_score_submission/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Software/Codeblock/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;E:/JAPURA/Computer Science/programing/submission project/cricket_live_score_submission/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/Software/Codeblock/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;E:/JAPURA/Computer Science/programing/submission project/cricket_live_score_submission/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Software/Codeblock/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;E:/JAPURA/Computer Science/programing/submission project/cricket_live_score_submission/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Software/Codeblock/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;E:/JAPURA/Computer Science/programing/submission project/cricket_live_score_submission/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cricket_live_score_submission">
+				<Option output="E:/JAPURA/Computer Science/programing/submission project/cricket_live_score_submission/cmake-build-debug/cricket_live_score_submission.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/JAPURA/Computer Science/programing/submission project/cricket_live_score_submission/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/Software/Codeblock/CodeBlocks/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/Software/Codeblock/CodeBlocks/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/Software/Codeblock/CodeBlocks/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/Software/Codeblock/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;E:/JAPURA/Computer Science/programing/submission project/cricket_live_score_submission/cmake-build-debug/Makefile&quot;  VERBOSE=1 cricket_live_score_submission"/>
+					<CompileFile command="D:/Software/Codeblock/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;E:/JAPURA/Computer Science/programing/submission project/cricket_live_score_submission/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Software/Codeblock/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;E:/JAPURA/Computer Science/programing/submission project/cricket_live_score_submission/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Software/Codeblock/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;E:/JAPURA/Computer Science/programing/submission project/cricket_live_score_submission/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cricket_live_score_submission/fast">
+				<Option output="E:/JAPURA/Computer Science/programing/submission project/cricket_live_score_submission/cmake-build-debug/cricket_live_score_submission.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/JAPURA/Computer Science/programing/submission project/cricket_live_score_submission/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/Software/Codeblock/CodeBlocks/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/Software/Codeblock/CodeBlocks/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/Software/Codeblock/CodeBlocks/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/Software/Codeblock/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;E:/JAPURA/Computer Science/programing/submission project/cricket_live_score_submission/cmake-build-debug/Makefile&quot;  VERBOSE=1 cricket_live_score_submission/fast"/>
+					<CompileFile command="D:/Software/Codeblock/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;E:/JAPURA/Computer Science/programing/submission project/cricket_live_score_submission/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Software/Codeblock/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;E:/JAPURA/Computer Science/programing/submission project/cricket_live_score_submission/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Software/Codeblock/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;E:/JAPURA/Computer Science/programing/submission project/cricket_live_score_submission/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="E:/JAPURA/Computer Science/programing/submission project/cricket_live_score_submission/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Software/Codeblock/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;E:/JAPURA/Computer Science/programing/submission project/cricket_live_score_submission/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/Software/Codeblock/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;E:/JAPURA/Computer Science/programing/submission project/cricket_live_score_submission/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Software/Codeblock/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;E:/JAPURA/Computer Science/programing/submission project/cricket_live_score_submission/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Software/Codeblock/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;E:/JAPURA/Computer Science/programing/submission project/cricket_live_score_submission/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="E:/JAPURA/Computer Science/programing/submission project/cricket_live_score_submission/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Software/Codeblock/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;E:/JAPURA/Computer Science/programing/submission project/cricket_live_score_submission/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/Software/Codeblock/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;E:/JAPURA/Computer Science/programing/submission project/cricket_live_score_submission/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Software/Codeblock/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;E:/JAPURA/Computer Science/programing/submission project/cricket_live_score_submission/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Software/Codeblock/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;E:/JAPURA/Computer Science/programing/submission project/cricket_live_score_submission/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="E:/JAPURA/Computer Science/programing/submission project/cricket_live_score_submission/main.c">
+			<Option target="cricket_live_score_submission"/>
+		</Unit>
+		<Unit filename="E:/JAPURA/Computer Science/programing/submission project/cricket_live_score_submission/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

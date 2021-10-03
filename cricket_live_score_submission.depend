@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1633159993 source:e:\japura\computer science\programing\submission project\cricket_live_score_submission\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<stdbool.h>
+
+1631639314 source:e:\japura\computer science\programing\submission project\cricket_live_score_submission\userside.c
+	<stdio.h>
+	<stdlib.h>
+
