@@ -1,0 +1,3 @@
+"E:\C Lion\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\induwara_project.dir/objects.a
+D:\Software\Codeblock\CodeBlocks\MinGW\bin\ar.exe cr CMakeFiles\induwara_project.dir/objects.a @CMakeFiles\induwara_project.dir\objects1.rsp
+D:\Software\Codeblock\CodeBlocks\MinGW\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\induwara_project.dir/objects.a -Wl,--no-whole-archive -o induwara_project.exe -Wl,--out-implib,libinduwara_project.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\induwara_project.dir\linklibs.rsp
