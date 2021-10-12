@@ -1,0 +1,3 @@
+"E:\C Lion\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\cricket_live_score_submission.dir/objects.a
+D:\Software\Codeblock\CodeBlocks\MinGW\bin\ar.exe cr CMakeFiles\cricket_live_score_submission.dir/objects.a @CMakeFiles\cricket_live_score_submission.dir\objects1.rsp
+D:\Software\Codeblock\CodeBlocks\MinGW\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\cricket_live_score_submission.dir/objects.a -Wl,--no-whole-archive -o cricket_live_score_submission.exe -Wl,--out-implib,libcricket_live_score_submission.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cricket_live_score_submission.dir\linklibs.rsp

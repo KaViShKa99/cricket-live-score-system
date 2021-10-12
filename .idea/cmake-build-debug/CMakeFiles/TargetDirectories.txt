@@ -1,0 +1,3 @@
+E:/JAPURA/Computer Science/programing/submission project/cricket_live_score_submission/cmake-build-debug/CMakeFiles/cricket_live_score_submission.dir
+E:/JAPURA/Computer Science/programing/submission project/cricket_live_score_submission/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/JAPURA/Computer Science/programing/submission project/cricket_live_score_submission/cmake-build-debug/CMakeFiles/rebuild_cache.dir
